@@ -1,2 +1,2 @@
 # Machine-learning-exersise
-gc
+These are mini projects to learn machine learning
