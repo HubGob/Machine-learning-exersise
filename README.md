@@ -1,2 +1,2 @@
 # Machine-learning-exersise
-These are mini projects to learn machine learning fknslbubjbjb
+These are mini projects to learn machine learning 
